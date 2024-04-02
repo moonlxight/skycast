@@ -18,17 +18,19 @@ SkyCast is a simple weather application built with Python and Tkinter. It allows
 ## Installation
 
 1. Clone the repository:
+
    ```
     https://github.com/moonlxight/skycast
    ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
   ```
     cd SkyCast
   ```
 
 3. Run the application:
+
   ```
     python weather_app.py
   ```
