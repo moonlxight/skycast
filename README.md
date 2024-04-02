@@ -20,7 +20,7 @@ SkyCast is a simple weather application built with Python and Tkinter. It allows
 1. Clone the repository:
 
 ```
-git clone https://github.com/moonlxight/skycast
+  git clone https://github.com/moonlxight/skycast
 ```
 
 3. Navigate to the project directory:
